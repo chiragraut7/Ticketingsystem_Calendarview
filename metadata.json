@@ -1,0 +1,6 @@
+{
+  "name": "4see Submission Calendar",
+  "description": "Enterprise submission calendar and tracking dashboard with interactive calendar view, status indicators, and event management modal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
